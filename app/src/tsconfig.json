@@ -1,0 +1,7 @@
+{
+  "files": [
+    "./../../bower_components/phaser-ce/typescrip/phaser.d.ts",
+    "./../../bower_components/phaser-ce/typescrip/pixi.d.ts",
+    "./../../bower_components/phaser-ce/typescrip/p2.d.ts"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "phaser-game",
+  "description": "learning phaser",
+  "main": "index.js",
+  "authors": [
+    "tom nguyen"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "phaser",
+    "game"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "phaser-ce": "^2.9.4"
+  }
+}

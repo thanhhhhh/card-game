@@ -1,0 +1,34 @@
+{
+  "name": "phaser-game",
+  "version": "1.0.0",
+  "description": "learning phaser",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thanhhhhh/phaser-game.git"
+  },
+  "keywords": [
+    "phaser",
+    "game"
+  ],
+  "author": "tom nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thanhhhhh/phaser-game/issues"
+  },
+  "homepage": "https://github.com/thanhhhhh/phaser-game#readme",
+  "dependencies": {
+    "bower": "^1.8.2"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^4.0.0-alpha.1",
+    "gulp-watch": "^5.0.0",
+    "lite-server": "^2.3.0",
+    "typescript": "^2.6.2",
+    "webpack": "^3.10.0"
+  }
+}
